@@ -10,7 +10,7 @@ Since this was my first Object Oriented programming project using multiple files
 
 The code was commented thoroughly and follows a relatively industry standard code formatting style to allow maximum ease of maintainability, readability and adaptability.
 
-#Compiling and Running
+# Compiling and Running
 
 The code was compiled on MacOS Catalina 10.15.4 using the GNU C++ compiler. To compile and run:
 
