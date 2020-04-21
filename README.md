@@ -26,6 +26,6 @@ system("clear");
 ```
 need to be changed to: 
 
-```bash
+```c++
 system("cls");
 ```
