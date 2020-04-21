@@ -18,3 +18,14 @@ The code was compiled on MacOS Catalina 10.15.4 using the GNU C++ compiler. To c
 g++ -o Investments main.cpp Investments.cpp
 ./Investments
 ```
+
+In order to compile in Windows 10, all lines of code in Investments.cpp file as follows:
+
+```bash
+system("clear");
+```
+need to be changed to: 
+
+```bash
+system("cls");
+```
