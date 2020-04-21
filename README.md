@@ -2,7 +2,7 @@
 
 The premise of this project was to create an Object Oriented C++ program to calculate investment growth based on compounding interest from deposits to a saving account. The program allows users to enter an initial deposit amount, a monthly deposit amount, an annual interest rate, and a number of years to project monetary growth. The program would then calculate the return and display the amounts including the monthly deposits, as well as excluding the monthly deposits.
 
-I believe I was able to provide the functionality well through the use of user input checks, and an intuitive User Interface through the use of a console menu. 
+I believe I was able to provide the functionality well through the use of user input checks/validation, and an intuitive User Interface through the use of a console menu. 
 
 I believe the code could have been enhanced by making use of integers instead of floating points due to the subject of the program being money.
 
